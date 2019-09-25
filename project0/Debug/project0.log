@@ -1,0 +1,3 @@
+﻿  decrypt.cpp
+C:\Users\William\source\repos\mhackers\project0\project0\decrypt.cpp(16,20): warning C4018:  '<': signed/unsigned mismatch
+  project0.vcxproj -> C:\Users\William\source\repos\mhackers\project0\Debug\project0.exe
